@@ -1,2 +1,5 @@
 #Ignore directories
 env/
+
+#Ignore files
+plan_list

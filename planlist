@@ -1,0 +1,7 @@
+Класс Interface
+-----------------------------------------------------------------------
+1) Метод __init__(self, size, alignment):
+Поля - size(Размер - width: int, height: int), 
+       skeleton(Вид, представление - list),
+       alignment(Выравнивание - string),
+       view(Строковое представлени в терминале - string)
