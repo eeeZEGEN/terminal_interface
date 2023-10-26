@@ -1,4 +1,5 @@
 from interface import Interface
 
 interface = Interface(size=(20, 20))
-print(interface._view)
+interface.setSize(size=(30, 30))
+interface.loop()
